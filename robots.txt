@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jhpartnersofficial.github.io/promvi-legal-site/sitemap.xml
